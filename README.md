@@ -67,7 +67,7 @@ C:\Users\ASUS\Documents\HMIF\Bareng-bareng\HQregister_Fabian_new_branch>npm run 
 Buka browser dan ketikkan: "http://localhost:3000/" di tab browser.
 
 ### Break down into end to end tests
-Program utama yang dijalankan adalah index.js, melalui laman localhost:3000. Menu utama terdiri atas tiga pilihan, yaitu menu untuk me-register user, me-register tower, dan mencari user. Ketika melakukan registrasi user ataupun tower, data yang diinput akan tersimpan pada database. Data yang tersimpan ini diakses ketika menggunakan fitur pencarian user.
+Program utama yang dijalankan adalah index.js, melalui laman localhost:3000. Menu utama terdiri dari tiga pilihan, yaitu menu untuk me-register user, me-register tower, dan mencari user. Ketika melakukan registrasi user ataupun tower, data yang diinput akan tersimpan pada database. Data yang tersimpan ini diakses ketika menggunakan fitur pencarian user.
 
 ### And coding style tests
 Spesifikasi stack yang digunakan adalah sebagai berikut. Front-end menggunakan HTML dan CSS, dan file CSS yang digunakan merupakan template dari tabler.io. Back-end menggunakan node.js. Untuk database, digunakan MongoDB.
